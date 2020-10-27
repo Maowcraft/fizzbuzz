@@ -1,0 +1,15 @@
+plugins {
+    id 'java'
+}
+
+group = "maow"
+archivesBaseName = "fizzbuzz"
+version = "1.0.0"
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+
+}
